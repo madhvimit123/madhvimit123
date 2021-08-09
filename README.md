@@ -1,5 +1,7 @@
 ### Bonjour! I'm Madhvi 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=madhvimit123)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **madhvimit123/madhvimit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
