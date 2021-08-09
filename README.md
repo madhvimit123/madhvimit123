@@ -1,5 +1,7 @@
 ### Bonjour! I'm Madhvi 👋
 
+https://github-profile-trophy.vercel.app/?username=madhvimit123&theme=onedark
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=madhvimit123)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
